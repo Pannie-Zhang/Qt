@@ -4,7 +4,7 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    //这是个测试
+    //这里测试上传
     MainWindow w;
     w.show();
 
